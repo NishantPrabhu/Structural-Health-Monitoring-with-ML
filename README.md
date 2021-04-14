@@ -1,7 +1,7 @@
-# Structural-Health-Monitoring-with-ML
+# Structural Health Monitoring with ML
 Code for our project involving structural health monitoring with machine learning.
 
-This code is a work in progress!
+**This code is a work in progress!**
 
 ## Usage instructions
 Assuming git has been installed in your command line, clone this branch of the repository locally:
