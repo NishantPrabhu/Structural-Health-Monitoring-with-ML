@@ -11,6 +11,12 @@ git clone --branch nishant https://github.com/NishantPrabhu/Structural-Health-Mo
 cd Structural-Health-Monitoring-with-ML
 ```
 
+Install the required packages.
+
+```
+pip3 install -r requirements.txt
+```
+
 Run `main.py` with following command line arguments.
 
 ```
