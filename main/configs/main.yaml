@@ -1,0 +1,17 @@
+
+# Configuration file 
+
+
+lstm:
+  epochs: 10
+  eval_every: 5
+  
+  input_size: 47
+  hidden_size: 128
+  num_layers: 2
+  optim_lr: 0.001
+
+  data_root: ../project.xlsx
+  test_size: 0.2
+  batch_size: 32
+  augment: 20
